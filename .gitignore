@@ -1,0 +1,17 @@
+# Rust
+backend/target/
+backend/Cargo.lock
+target/
+**/flycheck*/
+
+# Node
+extension/node_modules/
+extension/dist/
+
+# Personal data - DO NOT COMMIT
+resume-summary.txt
+linkdin-about-section.txt
+backend/.env
+
+# macOS
+.DS_Store

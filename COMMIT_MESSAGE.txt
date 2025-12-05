@@ -1,0 +1,25 @@
+Initial commit: LinkedIn auto-reply bot with Rust + Ollama
+
+## Features
+- Semi-automated LinkedIn recruiter message reply generator
+- Chrome extension for detecting and auto-filling replies
+- Rust backend with Axum framework
+- Local LLM inference using Ollama (privacy-first, no API costs)
+- Environment variable configuration for personal information
+
+## Architecture
+- Chrome Extension (TypeScript): Content script + background service worker
+- Rust Backend: Axum HTTP server with CORS support
+- Ollama Integration: Local LLM for reply generation
+
+## Security & Privacy
+- All personal information (phone, resume link, name) stored in .env (not committed)
+- Resume and profile files excluded from git via .gitignore
+- Template files provided for easy setup
+- 100% local processing - no data sent to external services
+
+## Components
+- Backend: Rust service with environment variable configuration
+- Extension: TypeScript-based Chrome extension
+- Templates: Example files for resume, profile, and .env setup
+- Documentation: Comprehensive README with setup instructions

@@ -1,0 +1,27 @@
+# Resume Summary Template
+
+Replace this file with your actual resume text.
+
+Include:
+- Work experience (roles, companies, duration)
+- Technical skills and technologies
+- Key accomplishments and projects
+- Education background
+- Certifications (if any)
+
+Example format:
+----------------
+Senior Software Engineer at [Company Name]
+- [Duration]
+- Built and scaled [systems/platforms]
+- Technologies: [list your stack]
+
+Skills:
+- Languages: [e.g., Rust, Python, Go, etc.]
+- Frameworks: [e.g., React, Node.js, etc.]
+- Databases: [e.g., PostgreSQL, MongoDB, etc.]
+- Cloud: [e.g., AWS, GCP, Azure]
+
+Education:
+- [Degree] in [Field] from [University]
+
