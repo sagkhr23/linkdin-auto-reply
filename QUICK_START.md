@@ -43,8 +43,8 @@ cp backend/.env.example backend/.env
 
 Then edit `backend/.env` with your info:
 ```env
-PHONE_NUMBER=+91-8650030078
-RESUME_LINK=https://drive.google.com/file/d/1CBBYwKQ6oEHW99sw4oQAOE47FjunAnLf/view?usp=sharing
+PHONE_NUMBER=+xxxxx
+RESUME_LINK=xxxxxxx
 USER_NAME=Sahil
 ```
 
